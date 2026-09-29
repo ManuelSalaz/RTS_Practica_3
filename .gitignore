@@ -1,0 +1,13 @@
+# Binarios y objetos
+build/
+automotive_control
+*.o
+
+# Archivos temporales de editores
+.*.swp
+*~
+.~lock.*#
+
+# Notas locales
+*.md
+salida_pc_linux.txt
