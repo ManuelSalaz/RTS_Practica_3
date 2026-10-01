@@ -11,3 +11,6 @@ automotive_control
 # Notas locales
 *.md
 salida_pc_linux.txt
+graficas/
+*.png
+generate_plots.py
